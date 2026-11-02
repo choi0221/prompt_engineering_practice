@@ -1,0 +1,11 @@
+{
+  "mode": "fixture",
+  "results": [
+    {
+      "stage": "policy",
+      "name": "정책 프롬프트: 정책, 고급 조건, 고정 문서 순서",
+      "status": "통과",
+      "detail": "fixture 검증 완료"
+    }
+  ]
+}
